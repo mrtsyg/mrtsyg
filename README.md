@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrtsyg
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing open source javascript projects
 - 📫 You can reach me on muratsaygili1989@gmail.com
 
 <!---
